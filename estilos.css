@@ -25,3 +25,23 @@ header button {
   width: 100%;
   height: 100%;
 }
+.noticia-nueva {
+  grid-column-start: 5;
+  grid-row-start: 1;
+  text-align: center;
+  padding: 10px;
+}
+
+.noticia-nueva img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.noticia-nueva h4 {
+  margin-top: 10px;
+  font-size: 1.1rem;
+}
+
+.noticia-nueva p {
+  font-size: 0.9rem;
+}
